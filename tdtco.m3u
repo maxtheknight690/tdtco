@@ -1,55 +1,52 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Caracol.co"
-tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",
-group-title="TDT Colombiana",
-Caracol Televisión
+#EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="TDT Colombiana",Caracol Televisión
 http://190.0.247.38:8000/play/a009
 
-#EXTINF:-1 tvg-id="Canal.Institucional.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/87/6872963_B9A89B733937ACFE.png", group-title="Institucional / Gobierno", Canal Institucional 
+#EXTINF:-1 tvg-id="Canal.Institucional.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/87/6872963_B9A89B733937ACFE.png" group-title="Institucional / Gobierno",Canal Institucional
 http://190.0.247.38:8000/play/a002
 
-#EXTINF:-1 tvg-id="City.TV.co", tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766261_1A203E4D298185B0.png", group-title="Generalista / Entretenimiento", CityTV 
+#EXTINF:-1 tvg-id="City.TV.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766261_1A203E4D298185B0.png" group-title="Generalista / Entretenimiento",CityTV
 http://190.0.247.38:8000/play/a026
 
-#EXTINF:-1 tvg-id="Caracol.co", tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png", group-title="Generalista", Caracol HD2
+#EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Generalista",Caracol HD2
 http://190.0.247.38:8000/play/a04c
 
-#EXTINF:-1 tvg-id="RCN.co", tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png", group-title="Generalista", RCN
+#EXTINF:-1 tvg-id="RCN.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png" group-title="Generalista",RCN
 http://190.0.247.38:8000/play/a00b
 
-#EXTINF:-1 tvg-id="RCN.co", tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png", group-title="Generalista", RCN HD2
+#EXTINF:-1 tvg-id="RCN.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png" group-title="Generalista",RCN HD2
 http://190.0.247.38:8000/play/a065
 
-#EXTINF:-1 tvg-id="Canal.1.co", tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6735849_E3E120BD5125A1BB.png", group-title="Generalista", Canal 1
+#EXTINF:-1 tvg-id="Canal.1.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6735849_E3E120BD5125A1BB.png" group-title="Generalista",Canal 1
 http://190.0.247.38:8000/play/a005
 
-#EXTINF:-1 tvg-id="Canal Capital.co", tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840718_06DF1DE82185646C.png", group-title="Regional", Canal Capital 
+#EXTINF:-1 tvg-id="Canal.Capital.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840718_06DF1DE82185646C.png" group-title="Regional",Canal Capital
 http://190.0.247.38:8000/play/a02b
 
-#EXTINF:-1 tvg-id="Teleantioquia.co", tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6737703_74477722C5CA4FB8.png", group-title="Regional", Teleantioquia 
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6737703_74477722C5CA4FB8.png" group-title="Regional",Teleantioquia
 http://190.0.247.38:8000/play/a007
 
-#EXTINF:-1 tvg-id="Telecafé.co", tvg-logo="https://cdn.mitvstatic.com/channels/cf3b1390-83c1-4356-b0b8-d9f718c32737_m.jpg", group-title="Regional", Telecafé
+#EXTINF:-1 tvg-id="Telecafe.co" tvg-logo="https://cdn.mitvstatic.com/channels/cf3b1390-83c1-4356-b0b8-d9f718c32737_m.jpg" group-title="Regional",Telecafé
 http://190.0.247.38:8000/play/a02e
 
-#EXTINF:-1 tvg-id="Teleislas.co", tvg-logo="https://www.tdtparatodos.tv/sites/default/files/fteleislas.png", group-title="Regional", Teleislas
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/fteleislas.png" group-title="Regional",Teleislas
 http://190.0.247.38:8000/play/a02f
 
-#EXTINF:-1 tvg-id="Canal.TRO.co", tvg-logo="https://www.tdtparatodos.tv/sites/default/files/fcanal_tro.png", group-title="Regional", Canal TRO
+#EXTINF:-1 tvg-id="Canal.TRO.co" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/fcanal_tro.png" group-title="Regional",Canal TRO
 http://190.0.247.38:8000/play/a025
 
-#EXTINF:-1 tvg-id="Telecaribe.co", tvg-logo="https://www.tdtparatodos.tv/sites/default/files/telecaribe.png", tvg-logo="https://www.tdtparatodos.tv/sites/default/files/telecaribe.png", group-title="Regional", Telecaribe
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/telecaribe.png" group-title="Regional",Telecaribe
 http://190.0.247.38:8000/play/a02c
 
-#EXTINF:-1 tvg-id="Canal.Trece.co", tvg-logo="https://www.tdtparatodos.tv/sites/default/files/ftrece_0.png", group-title="Regional", Canal Trece
+#EXTINF:-1 tvg-id="Canal.Trece.co" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/ftrece_0.png" group-title="Regional",Canal Trece
 http://190.0.247.38:8000/play/a02g
 
-#EXTINF:-1 tvg-id="El.Tiempo.Televisión.co", tvg-logo="https://www.tdtparatodos.tv/sites/default/files/fel_tiempo.png", group-title="Regional", El Tiempo Televisión 
+#EXTINF:-1 tvg-id="El.Tiempo.Television.co" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/fel_tiempo.png" group-title="Regional",El Tiempo Televisión
 http://186.148.184.65:8000/play/a0ca
 
-#EXTINF:-1 tvg-id="Telepacifico.co", tvg-logo="https://www.tdtparatodos.tv/sites/default/files/ftelepacifico.png", group-title="Regional", Telepacifico
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/ftelepacifico.png" group-title="Regional",Telepacífico
 http://190.0.247.38:8000/play/a02d
 
-#EXTINF:-1 tvg-id="Señal.Colombia.co", tvg-logo="https://www.tdtparatodos.tv/sites/default/files/fsenal_colombia.png", group-title="Cultural / Educativo", Señal Colombia 
+#EXTINF:-1 tvg-id="Senal.Colombia.co" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/fsenal_colombia.png" group-title="Cultural / Educativo",Señal Colombia
 http://190.0.247.38:8000/play/a006
